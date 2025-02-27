@@ -68,7 +68,7 @@ plt.show()
 ```
 
 ## Output:
-```
+``
 HEAD VALUES
 ![Screenshot 2025-02-27 181803](https://github.com/user-attachments/assets/d0ba9d8c-d4e1-455c-95c0-2f319c4f2187)
 TAIL VALUES
@@ -78,7 +78,8 @@ HOURS VALUES
 SCORES VALUES
 ![Screenshot 2025-02-27 181830](https://github.com/user-attachments/assets/45553fa6-2a53-482c-a158-fa898847af9d)
 Y_PREDICTION
-![image](https://github.com/user-attachments/assets/c14c7356-5913-4160-b044-3bc28ec1d596)
+![Screenshot 2025-02-27 183405](https://github.com/user-attachments/assets/14b9849d-285d-4f45-84a6-61b6c973b9a1)
+
 Y_TEST
 ![Screenshot 2025-02-27 181837](https://github.com/user-attachments/assets/30cf7d72-197b-4927-9671-1c76b97c3a52)
 RESULT OF MSE,MAE,RMSE
@@ -89,7 +90,7 @@ TEST SET
 ![Screenshot 2025-02-27 181909](https://github.com/user-attachments/assets/b649d685-b9fe-4d3f-9de9-c5c210b3ae18)
 
 
-
+```
 
 
 
